@@ -1,39 +1,107 @@
-Dashboard Epidemiológico en Power BI Descripción
+# Dashboard Epidemiológico en Power BI
 
-Proyecto de análisis y visualización de datos desarrollado en Power BI utilizando un conjunto de datos ficticio con registros médicos.
+## Descripción
 
-El objetivo del dashboard es facilitar la exploración de información epidemiológica mediante indicadores clave (KPIs), análisis geográfico, distribución demográfica y tendencias temporales.
+Proyecto de análisis y visualización de datos desarrollado en Power BI utilizando un conjunto de datos ficticio con más de un millón de registros médicos.
 
-Tecnologías utilizadas Power BI DAX Power Query SQL Server Modelado relacional Características principales Dashboard General
+El objetivo del dashboard es facilitar la exploración de información epidemiológica mediante indicadores clave (KPIs), análisis geográfico, distribución demográfica y tendencias temporales, permitiendo identificar patrones y apoyar la toma de decisiones basada en datos.
 
-Incluye indicadores clave para el monitoreo de información epidemiológica:
+---
 
-Total de registros médicos Total de diagnósticos ICD Total de municipios registrados Edad promedio de pacientes Días promedio de estancia Hospitales activos Análisis de enfermedades
+## Tecnologías Utilizadas
 
-Permite identificar:
+* Power BI
+* DAX (Data Analysis Expressions)
+* Power Query
+* SQL Server
+* Modelado Relacional
 
-Enfermedades con mayor número de registros Distribución de diagnósticos Comparación entre enfermedades más frecuentes Análisis demográfico
+---
 
-Incluye:
+## Funcionalidades Implementadas
 
-Distribución por sexo Edad promedio de pacientes Comparación entre grupos poblacionales Análisis geográfico
+### Indicadores Clave (KPIs)
 
-Permite visualizar:
+* Total de registros médicos
+* Total de diagnósticos ICD
+* Total de municipios registrados
+* Hospitales activos
+* Edad promedio de pacientes
+* Días promedio de estancia
 
-Estados con mayor número de registros Municipios con mayor incidencia Distribución territorial de la información Análisis temporal
+### Análisis Epidemiológico
 
-Permite analizar:
+* Diagnósticos más frecuentes
+* Distribución de enfermedades
+* Comparación entre diagnósticos ICD
 
-Registros por año Registros por mes Tendencias temporales Comportamiento histórico de los datos Capturas Dashboard General
+### Análisis Demográfico
 
-Dashboard Temporal y Geográfico
+* Distribución por sexo
+* Edad promedio de los pacientes
 
-Principales hallazgos Más de 1 millón de registros médicos analizados. Predominio de registros correspondientes a pacientes femeninos. Identificación de los diagnósticos ICD con mayor frecuencia. Concentración de registros en determinados estados y municipios. Análisis de tendencias temporales por año y mes. Nota sobre los datos
+### Análisis Geográfico
 
-Los datos utilizados en este proyecto son completamente ficticios y se emplean únicamente con fines académicos, de aprendizaje y demostración de capacidades de análisis de datos mediante Power BI.
+* Estados con mayor número de registros
+* Municipios con mayor incidencia
+* Distribución territorial de la información
+
+### Análisis Temporal
+
+* Registros por año
+* Registros por mes
+* Tendencias históricas
+* Evolución de los registros a través del tiempo
+
+---
+
+## Capturas del Proyecto
+
+### Dashboard General
+
+![Dashboard General](Capturas/Dashboard1.png)
+
+### Dashboard Temporal y Geográfico
+
+![Dashboard Temporal](Capturas/Dashboard2.png)
+
+---
+
+## Habilidades Demostradas
+
+* Limpieza y transformación de datos con Power Query
+* Creación de medidas utilizando DAX
+* Diseño de dashboards interactivos
+* Modelado relacional de datos
+* Creación de KPIs
+* Análisis geográfico
+* Análisis temporal
+* Visualización de datos orientada a la toma de decisiones
+
+---
+
+## Principales Hallazgos
+
+* Predominio de registros correspondientes a pacientes femeninos.
+* Identificación de los diagnósticos ICD con mayor frecuencia.
+* Concentración de registros en determinados estados y municipios.
+* Visualización de tendencias temporales mediante filtros dinámicos.
+
+> Nota: El pico observado en el año 2014 corresponde a una carga masiva de registros utilizada para ampliar el conjunto de datos de prueba y demostración.
+
+---
+
+## Nota Sobre los Datos
+
+Los datos utilizados en este proyecto son completamente ficticios y se emplean únicamente con fines académicos, de aprendizaje y demostración.
 
 No representan información real de pacientes, instituciones médicas ni organizaciones de salud.
 
-Autor
+---
 
-Jonathan López Castro
+## Autor
+
+**Jonathan López Castro**
+
+* GitHub: https://github.com/Jonalpz24
+* LinkedIn: www.linkedin.com/in/jonalpz2427
